@@ -1,5 +1,11 @@
 # ✨ _About Me_ ✨
 
+[stats-img]: https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight
+[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=AP6YC&layout=donut&theme=tokyonight
+[langs-url]: https://github.com/AP6YC/github-readme-stats
+
+![Sasha's GitHub stats][stats-img] [![Top Langs][langs-img]][langs-url]
+
 My name is Sasha Petrenko, and I am a Ph.D. candidate of computer engineering at Missouri S&T in Rolla, MO.
 I have a background in aerospace engineering, and my current research focus is lifelong machine learning.
 
@@ -7,7 +13,7 @@ I have a background in aerospace engineering, and my current research focus is l
 
 > Why is your handle @AP6YC?
 
-If you read it like its in Cyrillic, it spells "arboose", which means watermelon in Russian.
+If you read it like it's in Cyrillic, it spells the word "arboose", which means "watermelon" in Russian.
 
 ---
 
@@ -54,5 +60,3 @@ Some of my projects here include:
   - [DCCR](https://github.com/AP6YC/DCCR): a research repository implementing the experiments for my paper [_Lifelong Context Recognition via Deep Feature Clustering_](https://doi.org/10.36227/techrxiv.23653737)
 - Others:
   - [dark-future](https://github.com/AP6YC/dark-future): a collection of original and modified VSCode color themes with a special focus on Python and Julia syntax highlighting.
- 
-![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight)
