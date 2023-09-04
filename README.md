@@ -54,3 +54,5 @@ Some of my projects here include:
   - [DCCR](https://github.com/AP6YC/DCCR): a research repository implementing the experiments for my paper [_Lifelong Context Recognition via Deep Feature Clustering_](https://doi.org/10.36227/techrxiv.23653737)
 - Others:
   - [dark-future](https://github.com/AP6YC/dark-future): a collection of original and modified VSCode color themes with a special focus on Python and Julia syntax highlighting.
+ 
+![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight)
