@@ -1,10 +1,12 @@
 # ✨ _About Me_ ✨
 
 [stats-img]: https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight
-[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=AP6YC&layout=donut&theme=tokyonight
-[langs-url]: https://github.com/AP6YC/github-readme-stats
+[stats-url]: https://github.com/anuraghazra/github-readme-stats
 
-![Sasha's GitHub stats][stats-img] [![Top Langs][langs-img]][langs-url]
+[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=AP6YC&layout=donut&theme=tokyonight&hide=jupyter%20notebook,html,css
+[langs-url]: https://github.com/anuraghazra/github-readme-stats
+
+[![Sasha's GitHub stats][stats-img]][stats-url] [![Top Langs][langs-img]][langs-url]
 
 My name is Sasha Petrenko, and I am a Ph.D. candidate of computer engineering at Missouri S&T in Rolla, MO.
 I have a background in aerospace engineering, and my current research focus is lifelong machine learning.
