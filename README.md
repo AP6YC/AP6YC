@@ -25,7 +25,7 @@ Why not?
 
 ---
 
-Template time:
+Let's fill out the GitHub page template, shall we:
 
 - 🔭 I’m currently working on:
   - Finishing my dissertation 📑
