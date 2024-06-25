@@ -12,7 +12,14 @@ I have a background in aerospace engineering, and my current research focus is l
 [trophy-img]: https://github-profile-trophy.vercel.app/?username=AP6YC&theme=dracula&column=-1
 [trophy-url]: https://github.com/ryo-ma/github-profile-trophy
 
-[![Sasha's GitHub stats][stats-img]][stats-url] [![Top Langs][langs-img]][langs-url]
+[streak-img-gradient]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB&background=45%2C231055%2C0F0712
+[streak-img-border]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB
+[streak-img]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545
+[streak-url]: https://git.io/streak-stats
+
+[![Sasha's GitHub stats][stats-img]][stats-url]
+[![Top Langs][langs-img]][langs-url]
+[![GitHub Streak][streak-img]][streak-url]
 
 [![Sasha's GitHub trophies][trophy-img]][trophy-url]
 
