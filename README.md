@@ -17,8 +17,10 @@ I have a background in aerospace engineering, and my current research focus is l
 [streak-img]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545
 [streak-url]: https://git.io/streak-stats
 
-[![Sasha's GitHub stats][stats-img]][stats-url]
+![Metrics](/metrics.classic.svg)
 [![Top Langs][langs-img]][langs-url]
+
+[![Sasha's GitHub stats][stats-img]][stats-url]
 [![GitHub Streak][streak-img]][streak-url]
 
 [![Sasha's GitHub trophies][trophy-img]][trophy-url]
