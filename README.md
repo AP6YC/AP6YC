@@ -14,7 +14,7 @@ I have a background in aerospace engineering, and my current research focus is l
 
 [streak-img-gradient]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB&background=45%2C231055%2C0F0712
 [streak-img-border]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB
-[streak-img]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545
+[streak-img]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545&card_width=450
 [streak-url]: https://git.io/streak-stats
 
 ![Metrics](/metrics.classic.svg)
