@@ -1,7 +1,7 @@
 # ✨ _About Me_ ✨
 
-My name is Sasha Petrenko, and I am a Ph.D. candidate of computer engineering at Missouri S&T in Rolla, MO.
-I have a background in aerospace engineering, and my current research focus is lifelong machine learning.
+My name is Sasha Petrenko, and I am a Ph.D. of computer engineering and assistant research professor at Missouri S&T in Rolla, MO.
+I have a background in aerospace engineering, and my current research focus is lifelong machine learning with adaptive resonance algorithms.
 
 [stats-img]: https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight&card_width=400
 [stats-url]: https://github.com/anuraghazra/github-readme-stats
@@ -42,15 +42,15 @@ Why not?
 Let's fill out the GitHub page template, shall we:
 
 - 🔭 I’m currently working on:
-  - Finishing my dissertation 📑
+  - Lifelong machine learning, adaptive resonance, and deep learning 📑
 - 🌱 I’m currently learning:
   - Ways of tackling catastrophic forgetting 🧠 and French 🥐
 - 👯 I’m looking to collaborate on:
   - Open source Julia packages 🧑‍💻 and hot sauce recipes 🌶️
 - 🤔 I’m looking for help with:
-  - How to finish my dissertation on time.
+  - How to live the good life (in the Socratic sense. Any other suggestions are also welcome).
 - 💬 Ask me about:
-  - Anything except how my dissertation is coming along.
+  - Self-organizing neural networks, computer vision, and electronic music production 🎶.
 - 📫 How to reach me:
   - <sap625@mst.edu>
 - 😄 Pronouns:
