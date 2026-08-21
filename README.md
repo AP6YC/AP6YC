@@ -3,27 +3,29 @@
 My name is Sasha Petrenko, and I am a Ph.D. of computer engineering and assistant research professor at Missouri S&T in Rolla, MO.
 I have a background in aerospace engineering, and my current research focus is lifelong machine learning with adaptive resonance algorithms.
 
-[stats-img]: https://github-readme-stats.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight&card_width=400
-[stats-url]: https://github.com/anuraghazra/github-readme-stats
+[stats-img]: https://github-stats-extended.vercel.app/api?username=AP6YC&show_icons=true&theme=tokyonight&card_width=400
+[stats-url]: https://github.com/stats-organization/github-stats-extended
 
-[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=AP6YC&layout=donut&theme=tokyonight&hide=jupyter%20notebook,html,css
-[langs-url]: https://github.com/anuraghazra/github-readme-stats
+[langs-img]: https://github-stats-extended.vercel.app/api/top-langs/?username=AP6YC&layout=donut&theme=tokyonight&hide=jupyter%20notebook,html,css
+[langs-url]: https://github.com/stats-organization/github-stats-extended
 
 [trophy-img]: https://github-profile-trophy.vercel.app/?username=AP6YC&theme=dracula&column=-1
 [trophy-url]: https://github.com/ryo-ma/github-profile-trophy
 
-[streak-img-gradient]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB&background=45%2C231055%2C0F0712
-[streak-img-border]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB
-[streak-img]: https://github-readme-streak-stats.herokuapp.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545&card_width=400
+[streak-img-gradient]: https://streak-stats.demolab.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB&background=45%2C231055%2C0F0712
+[streak-img-border]: https://streak-stats.demolab.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&border=9C7CEB
+[streak-img]: https://streak-stats.demolab.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&fire=C04545&card_width=400
+[streak-img-fixed]: https://streak-stats.demolab.com?user=AP6YC&theme=tokyonight&exclude_days=Sun%2CSat&card_width=400&fire=C04545
 [streak-url]: https://git.io/streak-stats
+
 
 ![Metrics](/metrics.classic.svg)
 [![Top Langs][langs-img]][langs-url]
 
 [![Sasha's GitHub stats][stats-img]][stats-url]
-[![GitHub Streak][streak-img]][streak-url]
+[![GitHub Streak][streak-img-fixed]][streak-url]
 
-[![Sasha's GitHub trophies][trophy-img]][trophy-url]
+<!-- [![Sasha's GitHub trophies][trophy-img]][trophy-url] -->
 
 ---
 
@@ -52,7 +54,7 @@ Let's fill out the GitHub page template, shall we:
 - 💬 Ask me about:
   - Self-organizing neural networks, computer vision, and electronic music production 🎶.
 - 📫 How to reach me:
-  - <sap625@mst.edu>
+  - <petrenkos@mst.edu>
 - 😄 Pronouns:
   - He/him
 - ⚡ Fun fact:
